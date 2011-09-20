@@ -11,7 +11,7 @@ setup(
 	name = 'pynecone',
 	version = __version__,
 	
-	install_requires = ['simplejson', 'httplib2', 'urllib'],
+	install_requires = ['simplejson', 'httplib2'],
 
 	author = 'Matthew Hokanson',
 	author_email = 'm@h0ke.com',
